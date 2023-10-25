@@ -1,0 +1,4 @@
+#algorithm_3
+
+Insertion sort arranges elements by repeatedly taking the next element 
+and inserting it into its correct position within the already sorted portion of the array.
